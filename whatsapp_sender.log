@@ -1,0 +1,547 @@
+2025-06-11 15:06:24,639 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-11 15:06:24,640 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 15:06:24,656 - INFO -  * Restarting with stat
+2025-06-11 15:06:25,302 - WARNING -  * Debugger is active!
+2025-06-11 15:06:25,304 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:06:25,319 - INFO - 127.0.0.1 - - [11/Jun/2025 15:06:25] "GET / HTTP/1.1" 200 -
+2025-06-11 15:06:57,300 - INFO - ====== WebDriver manager ======
+2025-06-11 15:06:58,987 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 15:06:59,065 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 15:06:59,124 - INFO - There is no [win64] chromedriver "137.0.7151.70" for browser google-chrome "137.0.7151" in cache
+2025-06-11 15:06:59,125 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 15:06:59,283 - INFO - WebDriver version 137.0.7151.70 selected
+2025-06-11 15:06:59,287 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+2025-06-11 15:06:59,288 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+2025-06-11 15:06:59,373 - INFO - Driver downloading response is 200
+2025-06-11 15:07:00,851 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 15:07:01,107 - INFO - Driver has been saved in cache [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70]
+2025-06-11 15:07:07,404 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 15:07:33,308 - INFO - WhatsApp Web loaded successfully
+2025-06-11 15:07:34,294 - INFO - Opening chat with 918074676650
+2025-06-11 15:07:40,199 - INFO - Message sent to 918074676650
+2025-06-11 15:07:47,898 - INFO - Process completed in 50.60 seconds
+2025-06-11 15:07:47,899 - INFO - 127.0.0.1 - - [11/Jun/2025 15:07:47] "POST /send HTTP/1.1" 200 -
+2025-06-11 15:07:48,216 - INFO - ====== WebDriver manager ======
+2025-06-11 15:07:49,824 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 15:07:49,887 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 15:07:49,965 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 15:07:52,789 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 15:07:57,329 - INFO - WhatsApp Web loaded successfully
+2025-06-11 15:07:58,084 - INFO - Opening chat with 918790860461
+2025-06-11 15:08:07,929 - INFO - Message sent to 918790860461
+2025-06-11 15:08:15,170 - INFO - Process completed in 26.95 seconds
+2025-06-11 15:08:15,171 - INFO - 127.0.0.1 - - [11/Jun/2025 15:08:15] "POST /send HTTP/1.1" 200 -
+2025-06-11 15:13:43,899 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:13:43,998 - INFO -  * Restarting with stat
+2025-06-11 15:13:45,004 - WARNING -  * Debugger is active!
+2025-06-11 15:13:45,005 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:14:01,509 - INFO - 127.0.0.1 - - [11/Jun/2025 15:14:01] "GET / HTTP/1.1" 200 -
+2025-06-11 15:14:01,939 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-11 15:14:01,940 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 15:14:01,941 - INFO -  * Restarting with stat
+2025-06-11 15:14:02,586 - WARNING -  * Debugger is active!
+2025-06-11 15:14:02,588 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:14:48,556 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:14:48,636 - INFO -  * Restarting with stat
+2025-06-11 15:14:48,882 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:14:48,952 - INFO -  * Restarting with stat
+2025-06-11 15:14:49,347 - WARNING -  * Debugger is active!
+2025-06-11 15:14:49,350 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:14:49,626 - WARNING -  * Debugger is active!
+2025-06-11 15:14:49,629 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:14:57,803 - INFO - ====== WebDriver manager ======
+2025-06-11 15:14:59,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 15:14:59,537 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 15:14:59,600 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 15:15:02,046 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 15:15:07,550 - INFO - WhatsApp Web loaded successfully
+2025-06-11 15:15:08,259 - INFO - Opening chat with 918074676650
+2025-06-11 15:15:13,242 - INFO - Message sent to 918074676650
+2025-06-11 15:15:20,767 - INFO - Process completed in 22.96 seconds
+2025-06-11 15:15:20,768 - INFO - 127.0.0.1 - - [11/Jun/2025 15:15:20] "POST /send HTTP/1.1" 200 -
+2025-06-11 15:15:21,094 - INFO - ====== WebDriver manager ======
+2025-06-11 15:15:22,384 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 15:15:22,452 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 15:15:22,512 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 15:15:25,030 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 15:15:31,194 - INFO - WhatsApp Web loaded successfully
+2025-06-11 15:15:31,919 - INFO - Opening chat with 918790860461
+2025-06-11 15:15:39,032 - INFO - Message sent to 918790860461
+2025-06-11 15:15:46,285 - INFO - Process completed in 25.19 seconds
+2025-06-11 15:15:46,287 - INFO - 127.0.0.1 - - [11/Jun/2025 15:15:46] "POST /send HTTP/1.1" 200 -
+2025-06-11 15:16:33,853 - INFO - 127.0.0.1 - - [11/Jun/2025 15:16:33] "[33mGET /sample HTTP/1.1[0m" 404 -
+2025-06-11 15:16:58,480 - INFO - 127.0.0.1 - - [11/Jun/2025 15:16:58] "GET / HTTP/1.1" 200 -
+2025-06-11 15:16:59,017 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-11 15:16:59,018 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 15:16:59,019 - INFO -  * Restarting with stat
+2025-06-11 15:16:59,639 - WARNING -  * Debugger is active!
+2025-06-11 15:16:59,642 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:17:25,733 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:17:25,834 - INFO -  * Restarting with stat
+2025-06-11 15:17:25,839 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:17:25,931 - INFO -  * Restarting with stat
+2025-06-11 15:17:27,072 - WARNING -  * Debugger is active!
+2025-06-11 15:17:27,073 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:17:27,088 - WARNING -  * Debugger is active!
+2025-06-11 15:17:27,090 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:17:27,127 - WARNING -  * Debugger is active!
+2025-06-11 15:17:27,128 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:17:34,168 - INFO - 127.0.0.1 - - [11/Jun/2025 15:17:34] "GET / HTTP/1.1" 200 -
+2025-06-11 15:17:40,563 - INFO - 127.0.0.1 - - [11/Jun/2025 15:17:40] "[33mGET /sample HTTP/1.1[0m" 404 -
+2025-06-11 15:18:10,389 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:18:10,389 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:18:10,410 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:18:10,509 - INFO -  * Restarting with stat
+2025-06-11 15:18:10,513 - INFO -  * Restarting with stat
+2025-06-11 15:18:10,541 - INFO -  * Restarting with stat
+2025-06-11 15:18:11,711 - WARNING -  * Debugger is active!
+2025-06-11 15:18:11,714 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:18:11,724 - WARNING -  * Debugger is active!
+2025-06-11 15:18:11,727 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:18:11,730 - WARNING -  * Debugger is active!
+2025-06-11 15:18:11,732 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:18:17,762 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:18:17,770 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:18:17,779 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 15:18:17,872 - INFO -  * Restarting with stat
+2025-06-11 15:18:17,887 - INFO -  * Restarting with stat
+2025-06-11 15:18:17,894 - INFO -  * Restarting with stat
+2025-06-11 15:18:18,921 - WARNING -  * Debugger is active!
+2025-06-11 15:18:18,923 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:18:18,929 - WARNING -  * Debugger is active!
+2025-06-11 15:18:18,933 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:18:18,953 - WARNING -  * Debugger is active!
+2025-06-11 15:18:18,956 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:18:28,613 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-11 15:18:28,614 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 15:18:28,614 - INFO -  * Restarting with stat
+2025-06-11 15:18:29,237 - WARNING -  * Debugger is active!
+2025-06-11 15:18:29,238 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:18:29,253 - INFO - 127.0.0.1 - - [11/Jun/2025 15:18:29] "GET / HTTP/1.1" 200 -
+2025-06-11 15:57:13,387 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-11 15:57:13,388 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 15:57:13,396 - INFO -  * Restarting with stat
+2025-06-11 15:57:14,510 - WARNING -  * Debugger is active!
+2025-06-11 15:57:14,512 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 15:57:14,530 - INFO - 127.0.0.1 - - [11/Jun/2025 15:57:14] "GET / HTTP/1.1" 200 -
+2025-06-11 15:57:15,022 - INFO - 127.0.0.1 - - [11/Jun/2025 15:57:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 16:01:49,109 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 16:01:49,197 - INFO -  * Restarting with stat
+2025-06-11 16:01:50,203 - WARNING -  * Debugger is active!
+2025-06-11 16:01:50,205 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 16:03:56,231 - INFO - 127.0.0.1 - - [11/Jun/2025 16:03:56] "GET / HTTP/1.1" 200 -
+2025-06-11 16:03:56,954 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-11 16:03:56,955 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 16:03:56,956 - INFO -  * Restarting with stat
+2025-06-11 16:03:57,814 - WARNING -  * Debugger is active!
+2025-06-11 16:03:57,821 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 16:04:52,790 - INFO - ====== WebDriver manager ======
+2025-06-11 16:04:54,636 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:04:56,034 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:04:56,201 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 16:04:59,087 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 16:05:21,367 - INFO - 127.0.0.1 - - [11/Jun/2025 16:05:21] "GET / HTTP/1.1" 200 -
+2025-06-11 16:05:52,507 - ERROR - WhatsApp login timeout
+2025-06-11 16:05:53,497 - INFO - ====== WebDriver manager ======
+2025-06-11 16:05:55,025 - INFO - Process completed in 62.24 seconds
+2025-06-11 16:05:55,026 - INFO - 127.0.0.1 - - [11/Jun/2025 16:05:55] "[31m[1mPOST /send HTTP/1.1[0m" 408 -
+2025-06-11 16:05:55,405 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:05:56,004 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:05:56,315 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 16:05:59,342 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 16:06:22,715 - INFO - WhatsApp Web loaded successfully
+2025-06-11 16:06:23,481 - INFO - Opening chat with 918074676650
+2025-06-11 16:06:30,622 - INFO - Message sent to 918074676650
+2025-06-11 16:06:38,171 - INFO - Process completed in 44.67 seconds
+2025-06-11 16:06:38,172 - INFO - 127.0.0.1 - - [11/Jun/2025 16:06:38] "POST /send HTTP/1.1" 200 -
+2025-06-11 16:06:38,492 - INFO - ====== WebDriver manager ======
+2025-06-11 16:06:40,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:06:40,375 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:06:40,506 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 16:06:43,603 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 16:06:49,966 - INFO - WhatsApp Web loaded successfully
+2025-06-11 16:06:50,848 - INFO - Opening chat with 918790860461
+2025-06-11 16:07:01,766 - INFO - Message sent to 918790860461
+2025-06-11 16:07:09,195 - INFO - Process completed in 30.70 seconds
+2025-06-11 16:07:09,196 - INFO - 127.0.0.1 - - [11/Jun/2025 16:07:09] "POST /send HTTP/1.1" 200 -
+2025-06-11 16:13:12,773 - INFO - 127.0.0.1 - - [11/Jun/2025 16:13:12] "GET / HTTP/1.1" 200 -
+2025-06-11 16:13:13,469 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-11 16:13:13,470 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 16:13:13,473 - INFO -  * Restarting with stat
+2025-06-11 16:13:14,159 - WARNING -  * Debugger is active!
+2025-06-11 16:13:14,161 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 16:16:13,936 - INFO - ====== WebDriver manager ======
+2025-06-11 16:16:16,505 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:16:16,566 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:16:16,624 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 16:16:19,689 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 16:16:49,629 - INFO - WhatsApp Web loaded successfully
+2025-06-11 16:16:50,764 - INFO - Opening chat with 918074676650
+2025-06-11 16:16:58,661 - INFO - Message sent to 918074676650
+2025-06-11 16:17:06,369 - INFO - Process completed in 52.43 seconds
+2025-06-11 16:17:06,374 - INFO - 127.0.0.1 - - [11/Jun/2025 16:17:06] "POST /send HTTP/1.1" 200 -
+2025-06-11 16:17:06,696 - INFO - ====== WebDriver manager ======
+2025-06-11 16:17:09,086 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:17:09,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:17:09,238 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 16:17:12,506 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 16:17:18,641 - INFO - WhatsApp Web loaded successfully
+2025-06-11 16:17:19,322 - INFO - Opening chat with 918790860461
+2025-06-11 16:17:30,602 - INFO - Message sent to 918790860461
+2025-06-11 16:17:38,203 - INFO - Process completed in 31.51 seconds
+2025-06-11 16:17:38,205 - INFO - 127.0.0.1 - - [11/Jun/2025 16:17:38] "POST /send HTTP/1.1" 200 -
+2025-06-11 16:18:28,267 - INFO - ====== WebDriver manager ======
+2025-06-11 16:18:29,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:18:29,989 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:18:30,080 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 16:18:32,370 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 16:18:38,717 - INFO - WhatsApp Web loaded successfully
+2025-06-11 16:18:39,477 - INFO - Opening chat with 918074676650
+2025-06-11 16:18:47,204 - INFO - Message sent to 918074676650
+2025-06-11 16:18:54,674 - INFO - Process completed in 26.41 seconds
+2025-06-11 16:18:54,678 - INFO - 127.0.0.1 - - [11/Jun/2025 16:18:54] "POST /send HTTP/1.1" 200 -
+2025-06-11 16:18:54,996 - INFO - ====== WebDriver manager ======
+2025-06-11 16:18:56,630 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:18:56,747 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:18:57,230 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 16:19:00,023 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 16:19:06,245 - INFO - WhatsApp Web loaded successfully
+2025-06-11 16:19:07,349 - INFO - Opening chat with 918790860461
+2025-06-11 16:19:21,404 - INFO - Message sent to 918790860461
+2025-06-11 16:19:28,847 - INFO - Process completed in 33.85 seconds
+2025-06-11 16:19:28,848 - INFO - 127.0.0.1 - - [11/Jun/2025 16:19:28] "POST /send HTTP/1.1" 200 -
+2025-06-11 16:20:41,721 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 16:20:41,962 - INFO -  * Restarting with stat
+2025-06-11 16:20:42,213 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 16:20:42,343 - INFO -  * Restarting with stat
+2025-06-11 16:20:42,420 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 16:20:42,645 - INFO -  * Restarting with stat
+2025-06-11 16:20:43,844 - WARNING -  * Debugger is active!
+2025-06-11 16:20:43,846 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 16:20:43,846 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 16:20:43,964 - WARNING -  * Debugger is active!
+2025-06-11 16:20:43,966 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 16:21:01,793 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-11 16:21:01,793 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 16:21:01,794 - INFO -  * Restarting with stat
+2025-06-11 16:21:02,926 - WARNING -  * Debugger is active!
+2025-06-11 16:21:02,929 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 16:21:02,948 - INFO - 127.0.0.1 - - [11/Jun/2025 16:21:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 16:21:02,961 - INFO - 127.0.0.1 - - [11/Jun/2025 16:21:02] "GET / HTTP/1.1" 200 -
+2025-06-11 16:21:33,085 - INFO - ====== WebDriver manager ======
+2025-06-11 16:21:34,885 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:21:35,075 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:21:35,394 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 16:21:37,832 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 16:21:44,374 - INFO - WhatsApp Web loaded successfully
+2025-06-11 16:21:45,491 - INFO - Opening chat with 918074676650
+2025-06-11 16:21:51,730 - INFO - Message sent to 918074676650
+2025-06-11 16:21:59,256 - INFO - Process completed in 26.17 seconds
+2025-06-11 16:21:59,256 - INFO - 127.0.0.1 - - [11/Jun/2025 16:21:59] "POST /send HTTP/1.1" 200 -
+2025-06-11 16:21:59,577 - INFO - ====== WebDriver manager ======
+2025-06-11 16:22:01,127 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:22:01,477 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 16:22:01,786 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 16:22:04,525 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 16:22:10,326 - INFO - WhatsApp Web loaded successfully
+2025-06-11 16:22:10,988 - INFO - Opening chat with 918790860461
+2025-06-11 16:22:17,253 - INFO - Message sent to 918790860461
+2025-06-11 16:22:24,272 - INFO - Process completed in 24.69 seconds
+2025-06-11 16:22:24,273 - INFO - 127.0.0.1 - - [11/Jun/2025 16:22:24] "POST /send HTTP/1.1" 200 -
+2025-06-11 16:27:43,249 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\Desktop\\excel splitter\\whatsapp-web-sender\\app.py', reloading
+2025-06-11 16:27:43,327 - INFO -  * Restarting with stat
+2025-06-11 17:18:13,922 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-11 17:18:13,922 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 17:18:13,926 - INFO -  * Restarting with stat
+2025-06-11 17:18:14,929 - WARNING -  * Debugger is active!
+2025-06-11 17:18:14,931 - INFO -  * Debugger PIN: 326-016-825
+2025-06-11 17:18:14,954 - INFO - 127.0.0.1 - - [11/Jun/2025 17:18:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 17:18:14,965 - INFO - 127.0.0.1 - - [11/Jun/2025 17:18:14] "GET / HTTP/1.1" 200 -
+2025-06-11 17:18:35,938 - INFO - ====== WebDriver manager ======
+2025-06-11 17:18:37,904 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 17:18:38,081 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 17:18:38,155 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 17:18:40,940 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 17:18:46,861 - INFO - WhatsApp Web loaded successfully
+2025-06-11 17:18:47,594 - INFO - Opening chat with 918074676650
+2025-06-11 17:18:53,801 - INFO - Message sent to 918074676650
+2025-06-11 17:19:01,519 - INFO - Process completed in 25.58 seconds
+2025-06-11 17:19:01,521 - INFO - 127.0.0.1 - - [11/Jun/2025 17:19:01] "POST /send HTTP/1.1" 200 -
+2025-06-11 17:19:01,843 - INFO - ====== WebDriver manager ======
+2025-06-11 17:19:03,611 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 17:19:04,555 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-11 17:19:05,033 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-11 17:19:07,839 - INFO - Waiting for WhatsApp Web to load...
+2025-06-11 17:19:14,617 - INFO - WhatsApp Web loaded successfully
+2025-06-11 17:19:15,470 - INFO - Opening chat with 918790860461
+2025-06-11 17:19:21,910 - INFO - Message sent to 918790860461
+2025-06-11 17:19:29,440 - INFO - Process completed in 27.60 seconds
+2025-06-11 17:19:29,442 - INFO - 127.0.0.1 - - [11/Jun/2025 17:19:29] "POST /send HTTP/1.1" 200 -
+2025-06-13 11:54:08,981 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-13 11:54:08,983 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 11:54:09,022 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-13 11:54:09,725 - WARNING -  * Debugger is active!
+2025-06-13 11:54:09,727 - INFO -  * Debugger PIN: 326-016-825
+2025-06-13 11:54:09,748 - INFO - 127.0.0.1 - - [13/Jun/2025 11:54:09] "GET / HTTP/1.1" 200 -
+2025-06-13 11:54:09,952 - INFO - 127.0.0.1 - - [13/Jun/2025 11:54:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-13 15:39:24,794 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-13 15:39:24,795 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 15:39:24,828 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-13 15:39:25,566 - WARNING -  * Debugger is active!
+2025-06-13 15:39:25,567 - INFO -  * Debugger PIN: 326-016-825
+2025-06-13 15:39:25,587 - INFO - 127.0.0.1 - - [13/Jun/2025 15:39:25] "GET / HTTP/1.1" 200 -
+2025-06-13 15:39:25,730 - INFO - 127.0.0.1 - - [13/Jun/2025 15:39:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-13 15:42:47,105 - INFO - ====== WebDriver manager ======
+2025-06-13 15:42:49,057 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-13 15:42:49,391 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-13 15:42:49,599 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-13 15:42:50,032 - INFO - WebDriver version 137.0.7151.70 selected
+2025-06-13 15:42:50,042 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+2025-06-13 15:42:50,043 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+2025-06-13 15:42:50,383 - INFO - Driver downloading response is 200
+2025-06-13 15:42:51,847 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-13 15:42:52,273 - INFO - Driver has been saved in cache [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70]
+2025-06-13 15:43:02,631 - INFO - Waiting for WhatsApp Web to load...
+2025-06-13 15:43:09,228 - INFO - WhatsApp Web loaded successfully
+2025-06-13 15:43:10,384 - INFO - Opening chat with 916303190360
+2025-06-13 15:43:16,528 - INFO - Message sent to 916303190360
+2025-06-13 15:43:24,310 - INFO - Process completed in 37.21 seconds
+2025-06-13 15:43:24,311 - INFO - 127.0.0.1 - - [13/Jun/2025 15:43:24] "POST /send HTTP/1.1" 200 -
+2025-06-13 15:43:24,326 - INFO - ====== WebDriver manager ======
+2025-06-13 15:43:25,949 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-13 15:43:26,121 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-13 15:43:26,397 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-13 15:43:29,208 - INFO - Waiting for WhatsApp Web to load...
+2025-06-13 15:43:35,907 - INFO - WhatsApp Web loaded successfully
+2025-06-13 15:43:36,716 - INFO - Opening chat with 918790860461
+2025-06-13 15:43:43,074 - INFO - Message sent to 918790860461
+2025-06-13 15:43:50,682 - INFO - Process completed in 26.36 seconds
+2025-06-13 15:43:50,684 - INFO - 127.0.0.1 - - [13/Jun/2025 15:43:50] "POST /send HTTP/1.1" 200 -
+2025-06-14 12:15:46,067 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.36:5000
+2025-06-14 12:15:46,069 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 12:15:46,102 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-14 12:15:46,801 - WARNING -  * Debugger is active!
+2025-06-14 12:15:46,803 - INFO -  * Debugger PIN: 326-016-825
+2025-06-14 12:15:46,823 - INFO - 127.0.0.1 - - [14/Jun/2025 12:15:46] "GET / HTTP/1.1" 200 -
+2025-06-14 12:15:47,224 - INFO - 127.0.0.1 - - [14/Jun/2025 12:15:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-14 12:17:06,543 - INFO - ====== WebDriver manager ======
+2025-06-14 12:17:08,623 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:17:08,699 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:17:08,763 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:17:08,934 - INFO - WebDriver version 137.0.7151.70 selected
+2025-06-14 12:17:08,942 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+2025-06-14 12:17:08,943 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+2025-06-14 12:17:09,283 - INFO - Driver downloading response is 200
+2025-06-14 12:17:16,760 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:17:17,032 - INFO - Driver has been saved in cache [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70]
+2025-06-14 12:17:23,560 - INFO - Waiting for WhatsApp Web to load...
+2025-06-14 12:17:48,492 - INFO - WhatsApp Web loaded successfully
+2025-06-14 12:17:49,567 - INFO - Opening chat with 916303190360
+2025-06-14 12:17:56,809 - INFO - Message sent to 916303190360
+2025-06-14 12:18:04,386 - INFO - Process completed in 57.84 seconds
+2025-06-14 12:18:04,388 - INFO - 127.0.0.1 - - [14/Jun/2025 12:18:04] "POST /send HTTP/1.1" 200 -
+2025-06-14 12:18:04,706 - INFO - ====== WebDriver manager ======
+2025-06-14 12:18:05,949 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:18:06,012 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:18:06,071 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-14 12:18:08,828 - INFO - Waiting for WhatsApp Web to load...
+2025-06-14 12:18:13,963 - INFO - WhatsApp Web loaded successfully
+2025-06-14 12:18:14,743 - INFO - Opening chat with 918074676650
+2025-06-14 12:18:20,060 - INFO - Message sent to 918074676650
+2025-06-14 12:18:27,361 - INFO - Process completed in 22.66 seconds
+2025-06-14 12:18:27,362 - INFO - 127.0.0.1 - - [14/Jun/2025 12:18:27] "POST /send HTTP/1.1" 200 -
+2025-06-14 12:18:46,815 - INFO - ====== WebDriver manager ======
+2025-06-14 12:18:48,080 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:18:48,143 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:18:48,203 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-14 12:18:50,210 - INFO - Waiting for WhatsApp Web to load...
+2025-06-14 12:18:55,513 - INFO - WhatsApp Web loaded successfully
+2025-06-14 12:18:56,155 - INFO - Opening chat with 916303190360
+2025-06-14 12:19:19,324 - INFO - Process completed in 32.51 seconds
+2025-06-14 12:19:19,325 - INFO - 127.0.0.1 - - [14/Jun/2025 12:19:19] "POST /send HTTP/1.1" 200 -
+2025-06-14 12:19:19,644 - INFO - ====== WebDriver manager ======
+2025-06-14 12:19:20,920 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:19:20,984 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:19:21,051 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-14 12:19:23,538 - INFO - Waiting for WhatsApp Web to load...
+2025-06-14 12:20:07,216 - INFO - 127.0.0.1 - - [14/Jun/2025 12:20:07] "GET / HTTP/1.1" 200 -
+2025-06-14 12:20:09,111 - ERROR - WhatsApp login timeout
+2025-06-14 12:20:11,373 - INFO - Process completed in 51.73 seconds
+2025-06-14 12:20:11,374 - INFO - 127.0.0.1 - - [14/Jun/2025 12:20:11] "[31m[1mPOST /send HTTP/1.1[0m" 408 -
+2025-06-14 12:21:38,948 - INFO - ====== WebDriver manager ======
+2025-06-14 12:21:40,458 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:21:40,521 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:21:40,580 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-14 12:21:42,883 - INFO - Waiting for WhatsApp Web to load...
+2025-06-14 12:22:42,423 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E7196B6D50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8c03c8089e8122709725de823adb871e
+2025-06-14 12:22:46,471 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E7197087C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8c03c8089e8122709725de823adb871e
+2025-06-14 12:22:48,989 - INFO - 127.0.0.1 - - [14/Jun/2025 12:22:48] "GET / HTTP/1.1" 200 -
+2025-06-14 12:22:50,551 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E719708F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8c03c8089e8122709725de823adb871e
+2025-06-14 12:22:54,602 - INFO - Process completed in 75.66 seconds
+2025-06-14 12:22:54,603 - ERROR - Unexpected error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Traceback (most recent call last):
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\bodepu chandu ram\Desktop\excel splitter\whatsapp-web-sender\app.py", line 96, in send_messages
+    WebDriverWait(driver, CONFIG['QR_SCAN_TIMEOUT']).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        EC.presence_of_element_located((By.XPATH, '//div[@title="Chats"]'))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 129, in until
+    value = method(self._driver)
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 104, in _predicate
+    return driver.find_element(*locator)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 914, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 445, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\bodepu chandu ram\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-06-14 12:22:54,611 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\wait.py', reloading
+2025-06-14 12:22:54,648 - INFO - 127.0.0.1 - - [14/Jun/2025 12:22:54] "[35m[1mPOST /send HTTP/1.1[0m" 500 -
+2025-06-14 12:22:54,656 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\expected_conditions.py', reloading
+2025-06-14 12:22:54,658 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py', reloading
+2025-06-14 12:22:54,659 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\remote_connection.py', reloading
+2025-06-14 12:22:54,660 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_request_methods.py', reloading
+2025-06-14 12:22:54,661 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\poolmanager.py', reloading
+2025-06-14 12:22:54,662 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+2025-06-14 12:22:54,662 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+2025-06-14 12:22:54,663 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\util.py', reloading
+2025-06-14 12:22:54,664 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\connection.py', reloading
+2025-06-14 12:22:54,665 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\client.py', reloading
+2025-06-14 12:22:54,666 - INFO -  * Detected change in 'C:\\Users\\bodepu chandu ram\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socket.py', reloading
+2025-06-14 12:22:55,640 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-14 12:22:56,347 - WARNING -  * Debugger is active!
+2025-06-14 12:22:56,350 - INFO -  * Debugger PIN: 326-016-825
+2025-06-14 12:23:20,295 - INFO - ====== WebDriver manager ======
+2025-06-14 12:23:21,507 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:23:21,578 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:23:21,637 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-14 12:23:23,847 - INFO - Waiting for WhatsApp Web to load...
+2025-06-14 12:23:44,565 - INFO - WhatsApp Web loaded successfully
+2025-06-14 12:23:45,338 - INFO - Opening chat with 916303190360
+2025-06-14 12:23:50,474 - INFO - Message sent to 916303190360
+2025-06-14 12:23:57,914 - INFO - Process completed in 37.62 seconds
+2025-06-14 12:23:57,916 - INFO - 127.0.0.1 - - [14/Jun/2025 12:23:57] "POST /send HTTP/1.1" 200 -
+2025-06-14 12:23:57,926 - INFO - ====== WebDriver manager ======
+2025-06-14 12:23:59,174 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:23:59,245 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-14 12:23:59,312 - INFO - Driver [C:\Users\bodepu chandu ram\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-14 12:24:01,511 - INFO - Waiting for WhatsApp Web to load...
+2025-06-14 12:24:10,475 - INFO - WhatsApp Web loaded successfully
+2025-06-14 12:24:11,418 - INFO - Opening chat with 918074676650
+2025-06-14 12:24:17,109 - INFO - Message sent to 918074676650
+2025-06-14 12:24:24,421 - INFO - Process completed in 26.50 seconds
+2025-06-14 12:24:24,423 - INFO - 127.0.0.1 - - [14/Jun/2025 12:24:24] "POST /send HTTP/1.1" 200 -

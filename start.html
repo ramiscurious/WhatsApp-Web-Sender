@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Launch WhatsApp Sender</title>
+  <script>
+    window.onload = () => {
+      fetch('http://localhost:5000')
+        .then(() => window.location.href = 'http://localhost:5000')
+        .catch(() => alert("Start the server first by double-clicking run_app.bat or run using app.py"));
+    }
+  </script>
+</head>
+<body>
+  <h2>If you're not redirected, make sure Flask server is running.</h2>
+</body>
+</html>
